@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\bai3\bai3\bin\Debug\net6.0\bai3.exe
+D:\ASP\Asp.net\bai3\bai3\bin\Debug\net6.0\bai3.deps.json
+D:\ASP\Asp.net\bai3\bai3\bin\Debug\net6.0\bai3.runtimeconfig.json
+D:\ASP\Asp.net\bai3\bai3\bin\Debug\net6.0\bai3.dll
+D:\ASP\Asp.net\bai3\bai3\bin\Debug\net6.0\bai3.pdb
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.AssemblyInfo.cs
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.dll
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\refint\bai3.dll
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.pdb
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\bai3.genruntimeconfig.cache
+D:\ASP\Asp.net\bai3\bai3\obj\Debug\net6.0\ref\bai3.dll
